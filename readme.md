@@ -1,3 +1,5 @@
+This repo is an example for issue https://github.com/microsoft/playwright/issues/34914
+
 **Steps to reproduce:**
 
 - `npm init`
